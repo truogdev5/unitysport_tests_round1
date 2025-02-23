@@ -1,4 +1,4 @@
-# 🚀 Thuật toán Two Sum
+# 🚀 1. Thuật toán Two Sum
 
 ## 📌 **Brute Force (Duyệt từng cặp phần tử)**  
 - **Độ phức tạp**: `O(n²)`.  
